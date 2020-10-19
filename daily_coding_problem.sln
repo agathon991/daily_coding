@@ -31,7 +31,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "daily_coding_problem_045", 
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "daily_coding_problem_069", "daily_coding_problem_046\daily_coding_problem_046.vcxproj", "{7E17E8B7-5CD0-40B6-B2D1-79AE8AAA3849}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Coding_Challenges", "Coding_Challenges\Coding_Challenges.vcxproj", "{AA365A64-7D90-4322-86C4-68807DA0023F}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Coding_Challenges_001_output_directory_info_to_filename", "Coding_Challenges\Coding_Challenges.vcxproj", "{AA365A64-7D90-4322-86C4-68807DA0023F}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Coding_Challenges_002", "Coding_Challenges_002\Coding_Challenges_002.vcxproj", "{5A6FC32E-D637-4A7B-BFE5-E87B206267BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -161,6 +163,14 @@ Global
 		{AA365A64-7D90-4322-86C4-68807DA0023F}.Release|x64.Build.0 = Release|x64
 		{AA365A64-7D90-4322-86C4-68807DA0023F}.Release|x86.ActiveCfg = Release|Win32
 		{AA365A64-7D90-4322-86C4-68807DA0023F}.Release|x86.Build.0 = Release|Win32
+		{5A6FC32E-D637-4A7B-BFE5-E87B206267BF}.Debug|x64.ActiveCfg = Debug|x64
+		{5A6FC32E-D637-4A7B-BFE5-E87B206267BF}.Debug|x64.Build.0 = Debug|x64
+		{5A6FC32E-D637-4A7B-BFE5-E87B206267BF}.Debug|x86.ActiveCfg = Debug|Win32
+		{5A6FC32E-D637-4A7B-BFE5-E87B206267BF}.Debug|x86.Build.0 = Debug|Win32
+		{5A6FC32E-D637-4A7B-BFE5-E87B206267BF}.Release|x64.ActiveCfg = Release|x64
+		{5A6FC32E-D637-4A7B-BFE5-E87B206267BF}.Release|x64.Build.0 = Release|x64
+		{5A6FC32E-D637-4A7B-BFE5-E87B206267BF}.Release|x86.ActiveCfg = Release|Win32
+		{5A6FC32E-D637-4A7B-BFE5-E87B206267BF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
