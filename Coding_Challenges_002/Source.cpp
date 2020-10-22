@@ -34,7 +34,7 @@ int main(int argc, char* argv[])
     for (uint32_t i = 0; i < rand_numb_to_gen; i++)
     {
         // get a random number and put it in an appropriate bin
-        histogram[get_rand(max_randon_number) / (max_randon_number / histogram_size)]++;
+        histogram[(get_rand(max_randon_number) * histogram_size) / max_randon_number]++;
     }
 
     // get max and min values of the histogram

@@ -13,7 +13,7 @@ void get_input(char input[], uint32_t size)
 {
     char ch;
     unsigned int idx = 0;
-    printf("Enter name: ");
+    printf("Enter directory path: ");
     while (((ch = getchar()) != '\n') && (idx < (size - 1)))
     {
         input[idx++] = ch;
@@ -49,7 +49,7 @@ void get_input(char input[], uint32_t size)
      dir_info = opendir(input_dir);
      if (dir_info)
      {
-         fprintf(f, " Opened folder: %s", input_dir);
+         fprintf(f, " Opened folder: %s\n", input_dir);
 
          while ((dir_entry = readdir(dir_info)) != NULL)
          {
