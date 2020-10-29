@@ -75,6 +75,9 @@ public:
 
     double findMedianSortedArrays_NoIntermediateVec(vector<int>& nums1, vector<int>& nums2)
     {
+        // we can use the fact that the input arrays are sorted and not
+        // go on to create a "combined" array
+
         int s1 = 0;
         int s2 = 0;
 
