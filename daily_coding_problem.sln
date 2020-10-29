@@ -35,9 +35,13 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_001_output
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_002_drawing_an_ascii_histogram", "Coding_Challenges_002\Coding_Challenges_002.vcxproj", "{5A6FC32E-D637-4A7B-BFE5-E87B206267BF}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_003", "coding_challenge_003\coding_challenge_003.vcxproj", "{9C78D2EC-7A24-4E47-BD56-6A50E4ABCAF1}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_003 - traversing and creating lists", "coding_challenge_003\coding_challenge_003.vcxproj", "{9C78D2EC-7A24-4E47-BD56-6A50E4ABCAF1}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "daily_coding_problem_011 - Trie Structures and Didctionaries", "daily_coding_problem_011\daily_coding_problem_011.vcxproj", "{F50E9DF2-9BF4-45F5-9B99-738CBFC4A7E6}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "daily_coding_problem_011 - Trie Structures and dictionaries", "daily_coding_problem_011\daily_coding_problem_011.vcxproj", "{F50E9DF2-9BF4-45F5-9B99-738CBFC4A7E6}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_004 - Longest Substring Without Repeating Characters", "coding_challenge_004\coding_challenge_004.vcxproj", "{FF6E2D31-866A-43D7-8B8C-98078784FFB0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_005", "coding_challenge_005\coding_challenge_005.vcxproj", "{0B2E306D-09E1-42DC-B77C-A54FCDACE78D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -191,6 +195,22 @@ Global
 		{F50E9DF2-9BF4-45F5-9B99-738CBFC4A7E6}.Release|x64.Build.0 = Release|x64
 		{F50E9DF2-9BF4-45F5-9B99-738CBFC4A7E6}.Release|x86.ActiveCfg = Release|Win32
 		{F50E9DF2-9BF4-45F5-9B99-738CBFC4A7E6}.Release|x86.Build.0 = Release|Win32
+		{FF6E2D31-866A-43D7-8B8C-98078784FFB0}.Debug|x64.ActiveCfg = Debug|x64
+		{FF6E2D31-866A-43D7-8B8C-98078784FFB0}.Debug|x64.Build.0 = Debug|x64
+		{FF6E2D31-866A-43D7-8B8C-98078784FFB0}.Debug|x86.ActiveCfg = Debug|Win32
+		{FF6E2D31-866A-43D7-8B8C-98078784FFB0}.Debug|x86.Build.0 = Debug|Win32
+		{FF6E2D31-866A-43D7-8B8C-98078784FFB0}.Release|x64.ActiveCfg = Release|x64
+		{FF6E2D31-866A-43D7-8B8C-98078784FFB0}.Release|x64.Build.0 = Release|x64
+		{FF6E2D31-866A-43D7-8B8C-98078784FFB0}.Release|x86.ActiveCfg = Release|Win32
+		{FF6E2D31-866A-43D7-8B8C-98078784FFB0}.Release|x86.Build.0 = Release|Win32
+		{0B2E306D-09E1-42DC-B77C-A54FCDACE78D}.Debug|x64.ActiveCfg = Debug|x64
+		{0B2E306D-09E1-42DC-B77C-A54FCDACE78D}.Debug|x64.Build.0 = Debug|x64
+		{0B2E306D-09E1-42DC-B77C-A54FCDACE78D}.Debug|x86.ActiveCfg = Debug|Win32
+		{0B2E306D-09E1-42DC-B77C-A54FCDACE78D}.Debug|x86.Build.0 = Debug|Win32
+		{0B2E306D-09E1-42DC-B77C-A54FCDACE78D}.Release|x64.ActiveCfg = Release|x64
+		{0B2E306D-09E1-42DC-B77C-A54FCDACE78D}.Release|x64.Build.0 = Release|x64
+		{0B2E306D-09E1-42DC-B77C-A54FCDACE78D}.Release|x86.ActiveCfg = Release|Win32
+		{0B2E306D-09E1-42DC-B77C-A54FCDACE78D}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
