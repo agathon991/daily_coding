@@ -5,7 +5,6 @@
 #include <vector>
 
 /*
-
 Given a string s, return the longest palindromic substring in s.
 
 Example 1:
@@ -25,7 +24,6 @@ Example 4:
 Input: s = "ac"
 Output: "a"
 
-
 */
 
 using namespace std;
@@ -34,7 +32,6 @@ class solution {
 public:
     string longestPalindrome(string s)
     {
-
         const char* c = s.c_str();
         const int len = (int)s.length();
 
