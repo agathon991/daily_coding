@@ -45,7 +45,9 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_005 - Medi
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_006 - Longest palindromic substring in s", "coding_challenge_006\coding_challenge_006.vcxproj", "{DAD7D2D2-4B41-4114-B0FC-0C8DA2EE5012}"
 EndProject
-Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_007 - Strings in patterns", "coding_challenge_007\coding_challenge_007.vcxproj", "{C621E228-F3F9-46C2-AD79-97868980DAB7}"
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_007 - ZigZag conversions", "coding_challenge_007\coding_challenge_007.vcxproj", "{C621E228-F3F9-46C2-AD79-97868980DAB7}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_008 - Reverse digits of an integer", "coding_challenge_008\coding_challenge_008.vcxproj", "{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -231,6 +233,14 @@ Global
 		{C621E228-F3F9-46C2-AD79-97868980DAB7}.Release|x64.Build.0 = Release|x64
 		{C621E228-F3F9-46C2-AD79-97868980DAB7}.Release|x86.ActiveCfg = Release|Win32
 		{C621E228-F3F9-46C2-AD79-97868980DAB7}.Release|x86.Build.0 = Release|Win32
+		{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}.Debug|x64.ActiveCfg = Debug|x64
+		{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}.Debug|x64.Build.0 = Debug|x64
+		{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}.Debug|x86.ActiveCfg = Debug|Win32
+		{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}.Debug|x86.Build.0 = Debug|Win32
+		{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}.Release|x64.ActiveCfg = Release|x64
+		{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}.Release|x64.Build.0 = Release|x64
+		{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}.Release|x86.ActiveCfg = Release|Win32
+		{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
