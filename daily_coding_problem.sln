@@ -49,6 +49,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_007 - ZigZ
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_008 - Reverse digits of an integer", "coding_challenge_008\coding_challenge_008.vcxproj", "{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "coding_challenge_009 - Implement atoi", "coding_challenge_009\coding_challenge_009.vcxproj", "{0FF1B00B-7BA1-463F-8C13-60D48AAFD74F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -241,6 +243,14 @@ Global
 		{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}.Release|x64.Build.0 = Release|x64
 		{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}.Release|x86.ActiveCfg = Release|Win32
 		{F6054D3E-F9E3-4EEE-A2E1-0A1B41E8E5AA}.Release|x86.Build.0 = Release|Win32
+		{0FF1B00B-7BA1-463F-8C13-60D48AAFD74F}.Debug|x64.ActiveCfg = Debug|x64
+		{0FF1B00B-7BA1-463F-8C13-60D48AAFD74F}.Debug|x64.Build.0 = Debug|x64
+		{0FF1B00B-7BA1-463F-8C13-60D48AAFD74F}.Debug|x86.ActiveCfg = Debug|Win32
+		{0FF1B00B-7BA1-463F-8C13-60D48AAFD74F}.Debug|x86.Build.0 = Debug|Win32
+		{0FF1B00B-7BA1-463F-8C13-60D48AAFD74F}.Release|x64.ActiveCfg = Release|x64
+		{0FF1B00B-7BA1-463F-8C13-60D48AAFD74F}.Release|x64.Build.0 = Release|x64
+		{0FF1B00B-7BA1-463F-8C13-60D48AAFD74F}.Release|x86.ActiveCfg = Release|Win32
+		{0FF1B00B-7BA1-463F-8C13-60D48AAFD74F}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
